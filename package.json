@@ -1,0 +1,16 @@
+{
+  "name": "04-logging-testing",
+  "version": "1.0.0",
+  "description": "",
+  "main": "benchmarking.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "autocannon": "^7.15.0",
+    "nodemon": "^3.1.7"
+  }
+}
