@@ -3,7 +3,7 @@ const http = require('http');
 const PORT = 3000;
 
 http.createServer((req, res) => {
-  // console.log("A simple and innocent console log :3")
+  console.log("A simple and innocent console log :3")
   
   if (req.method === 'GET') {
     res.statusCode = 200;
